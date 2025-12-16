@@ -32,7 +32,7 @@ Soy creador de contenido educativo y fundador de **Jorge EduAI**, un proyecto en
 ---
 
 ## 🚀 En qué estoy trabajando actualmente
-- **Asistentes educativos y GPTs personalizados** para docencia y evaluación formativa.
+- **Asistentes educativos personalizados** para docencia y evaluación formativa.
 - **Flujos con RAG (Retrieval-Augmented Generation)** para uso académico confiable.
 - Modelos de **Blended Learning** con podcasts educativos + interacción guiada.
 - Capacitación docente e implementación institucional de IA (uso responsable, privacidad y métricas).
@@ -41,7 +41,7 @@ Soy creador de contenido educativo y fundador de **Jorge EduAI**, un proyecto en
 
 ## 🔬 Intereses de investigación
 - IA generativa aplicada a la educación superior
-- Evaluación formativa y acompañamiento del aprendizaje con agentes
+- Evaluación formativa y acompañamiento del aprendizaje con asistentes de IA
 - Metodología de investigación asistida por IA
 - Divulgación científica y alfabetización en inteligencia artificial
 
@@ -55,6 +55,8 @@ Soy creador de contenido educativo y fundador de **Jorge EduAI**, un proyecto en
 
 ---
 
+<!-- Perfil de GitHub: jorgeeduai 
+
 ## 🎓 Trabajo conmigo (Jorge EduAI)
 Ofrezco:
 - Cursos y formaciones en IA (2 a 15 horas)
@@ -64,14 +66,14 @@ Ofrezco:
 🌐 https://jorgeeduai.com  
 📩 jecruzangeles (at) tec.mx
 
----
+--- -->
 
 ## 📌 Proyectos destacados
 > Usa los repos “Pinned” para reforzar esta sección.
 
 - Asistentes educativos basados en IA
 - Plantillas RAG para contextos académicos
-- Automatización de flujos docentes e investigación
+- Automatización de flujos docentes e investigación 
 
 ---
 
