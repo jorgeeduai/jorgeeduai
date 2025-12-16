@@ -66,16 +66,16 @@ Ofrezco:
 🌐 https://jorgeeduai.com  
 📩 jecruzangeles (at) tec.mx
 
---- -->
+--- 
 
 ## 📌 Proyectos destacados
 > Usa los repos “Pinned” para reforzar esta sección.
 
 - Asistentes educativos basados en IA
 - Plantillas RAG para contextos académicos
-- Automatización de flujos docentes e investigación 
+- Automatización de flujos docentes e investigación  
 
----
+--- -->
 
 ## 🐈 Un poco más personal
 Convivo con tres gatos: **Bala, Aura y Moka**.  
